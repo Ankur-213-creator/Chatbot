@@ -1,0 +1,35 @@
+Velora Motors Pvt. Ltd. - Customer Support
+
+General Support:
+Phone: +91 40 5555 0180
+Email: support@veloramotors.example
+
+Roadside Assistance:
+Phone: +91 40 5555 0181
+Availability: 24 hours a day, 7 days a week
+
+Sales Support:
+Phone: +91 40 5555 0190
+Email: sales@veloramotors.example
+
+Service Appointments:
+Phone: +91 40 5555 0191
+Email: service@veloramotors.example
+
+Corporate Office:
+Phone: +91 40 5555 0100
+Email: corporate@veloramotors.example
+
+Support Hours:
+Customer support representatives are available Monday-Sunday, 8:00 AM-10:00 PM IST.
+Roadside assistance is available 24/7.
+
+When contacting support, customers should provide:
+- Customer name
+- Vehicle model
+- Vehicle identification number (VIN), if applicable
+- Registered phone number
+- Description of the issue
+
+Important Note:
+The company, phone numbers, and email addresses in this file are fictional. The .example domain is intentionally used for demonstration and testing.

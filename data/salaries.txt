@@ -1,0 +1,32 @@
+Velora Motors Pvt. Ltd. - Illustrative Salary Information
+
+The following salary ranges are fictional annual compensation ranges in Indian Rupees (INR). Actual compensation would depend on experience, role, location, performance, and business conditions.
+
+Engineering:
+- Software Engineer: INR 8,00,000 - 16,00,000
+- Senior Software Engineer: INR 15,00,000 - 26,00,000
+- Embedded Systems Engineer: INR 9,00,000 - 18,00,000
+- Senior Embedded Engineer: INR 16,00,000 - 28,00,000
+- AI/ML Engineer: INR 12,00,000 - 25,00,000
+- Engineering Manager: INR 25,00,000 - 40,00,000
+
+Automotive:
+- Vehicle Design Engineer: INR 7,00,000 - 15,00,000
+- Battery Engineer: INR 9,00,000 - 20,00,000
+- Manufacturing Engineer: INR 6,00,000 - 13,00,000
+- Quality Engineer: INR 5,50,000 - 12,00,000
+
+Corporate:
+- HR Specialist: INR 5,00,000 - 10,00,000
+- Finance Analyst: INR 6,00,000 - 12,00,000
+- Product Manager: INR 14,00,000 - 28,00,000
+
+Benefits:
+- Medical insurance
+- Paid annual leave
+- Performance-based bonus
+- Employee vehicle purchase program
+- Learning and development allowance
+
+Important Note:
+These salary figures are entirely fictional and should not be treated as real Velora Motors compensation data.

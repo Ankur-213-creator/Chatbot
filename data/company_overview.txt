@@ -1,0 +1,33 @@
+Company Name: Velora Motors Pvt. Ltd.
+
+About:
+Velora Motors is a fictional automotive company founded in 2018. The company designs and manufactures passenger vehicles, electric vehicles, and connected-car technology.
+
+Headquarters:
+Hyderabad, Telangana, India
+
+Industry:
+Automotive and Mobility Technology
+
+Founded:
+2018
+
+Employees:
+Approximately 1,850
+
+CEO of company : Marco Carlus 
+
+Core Products:
+- Velora V1: Compact electric hatchback
+- Velora V2: Mid-size electric sedan
+- Velora X5: Electric SUV
+- Velora Transit: Commercial electric vehicle platform
+
+Mission:
+To make reliable, practical, and technology-focused mobility accessible to everyday customers.
+
+Vision:
+To become a leading sustainable mobility company in India through electric vehicles, connected technology, and efficient manufacturing.
+
+Important Note:
+Velora Motors Pvt. Ltd. is a fictional company created for demonstration, testing, and document-retrieval purposes. It is not a real automotive company.

@@ -1,0 +1,39 @@
+Velora Motors Pvt. Ltd. - Product Catalog
+
+1. Velora V1
+Category: Compact Electric Hatchback
+Battery: 42 kWh
+Estimated Range: 330 km
+Primary Use: Urban commuting
+Seating: 5
+
+2. Velora V2
+Category: Mid-size Electric Sedan
+Battery: 58 kWh
+Estimated Range: 460 km
+Primary Use: City and highway travel
+Seating: 5
+
+3. Velora X5
+Category: Electric SUV
+Battery: 72 kWh
+Estimated Range: 520 km
+Primary Use: Family and long-distance travel
+Seating: 5
+
+4. Velora Transit
+Category: Commercial Electric Vehicle Platform
+Battery Options: 60 kWh / 90 kWh
+Estimated Range: 350-480 km depending on configuration
+Primary Use: Fleet and commercial transportation
+
+Technology Features:
+- Connected vehicle diagnostics
+- Mobile vehicle companion application
+- Regenerative braking
+- Battery thermal management
+- Over-the-air software updates
+- Digital vehicle health monitoring
+
+Important Note:
+All vehicle models, specifications, and features listed here are fictional and created for testing/demo purposes.

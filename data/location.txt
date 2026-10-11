@@ -1,0 +1,25 @@
+Velora Motors Pvt. Ltd. - Locations
+
+Head Office:
+Address: 5th Floor, Orion Business Tower, Hitech City Road, Hyderabad, Telangana 500081, India
+Purpose: Corporate management, finance, human resources, legal, sales operations, and customer experience.
+
+Research & Development Center:
+Address: Innovation Park, Gachibowli, Hyderabad, Telangana 500032, India
+Purpose: Vehicle software, battery-management systems, embedded systems, connected-car technology, and autonomous-driving research.
+
+Manufacturing Plant:
+Address: Velora Industrial Campus, Sri City, Andhra Pradesh 517646, India
+Purpose: Vehicle assembly, battery-pack assembly, quality control, and logistics.
+
+Regional Offices:
+- Bengaluru, Karnataka - Software and engineering operations
+- Pune, Maharashtra - Vehicle engineering and supplier management
+- Chennai, Tamil Nadu - Manufacturing and supply-chain operations
+
+Working Hours:
+Corporate offices: Monday-Friday, 9:00 AM-6:00 PM IST
+Customer support: Monday-Sunday, 8:00 AM-10:00 PM IST
+
+Important Note:
+All locations and addresses in this file are fictional and intended only for testing/demo purposes.
